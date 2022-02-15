@@ -5,7 +5,7 @@
 * 여기서, **연결지향**을 위해 필요하다.
 <br>
 
-1) 3 Way handshake
+> 3 Way handshake
   - 양쪽이 모두 전송 준비가 되었음을 보장하기 위한 과정
 <br>
 [1 단계] 
@@ -25,8 +25,8 @@
 + A 클라이언트는 B서버에게 ACK을 보내고 연결 완료 + 통신 시작
 
 + 서버(ESTABLISHED상태)
-
-2) 4 Way handshake
+-----------------
+> 4 Way handshake
   - 3 Way handshake가 TCP 연결을 초기화할 때 사용하였다면, 
   - 4 Way handshake는 세션을 종료하기 위해 수행되는 절차
 <br>
