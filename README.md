@@ -2,4 +2,4 @@
 ## OS
   - [DEADLOCK](https://github.com/TevLee/CS/blob/main/OperatingSystem/Deadlock.md)
 ## NETWORK
-  - [3-WAY HANDSHAKE](https://github.com/TevLee/CS/blob/main/OperatingSystem/Deadlock.md)
+  - [3-WAY HANDSHAKE](https://github.com/TevLee/CS/blob/main/Network/3WayHandshake.md)
