@@ -1,5 +1,5 @@
 # CS 기술면접대비
 ## OS
-  - DEADLOCK
+  - [DEADLOCK](https://github.com/TevLee/CS/blob/main/OperatingSystem/Deadlock.md)
 ## NETWORK
-  - 3-WAY HANDSHAKE
+  - [3-WAY HANDSHAKE](https://github.com/TevLee/CS/blob/main/OperatingSystem/Deadlock.md)
