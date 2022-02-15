@@ -1,2 +1,5 @@
-# CS
-기술면접대비
+# CS 기술면접대비
+## OS
+  - DEADLOCK
+## NETWORK
+  - 3-WAY HANDSHAKE
