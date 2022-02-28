@@ -1,4 +1,4 @@
-# CS 기술면접대비
+# CS TODAY-I-LEARN
 ## OS
   - [DEADLOCK](https://github.com/TevLee/CS/blob/main/OperatingSystem/Deadlock.md)
 ## NETWORK
