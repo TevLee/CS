@@ -14,5 +14,5 @@
 + 프로세스 : 자신만의 고유공간 + 자원 할당
 + 쓰레드 : 공간,자원을 공유... (stack 영역)
 
-+ 멀티 프로세스 : 여러 cpu가 하나의 컴퓨터에서 병렬처리 되는 것 : 장점 - 안정성 단점 - 시간,자원 소모 大 (context switching)
++ 멀티 프로세스 : 여러 cpu가 하나의 컴퓨터에서 병렬처리 되는 것 : 장점 - 안정성 단점 - 시간,자원 소모 大 ( [Context Switching](https://github.com/TevLee/CS/blob/main/OperatingSystem/ContextSwitching.md))
 + 멀티 쓰레드 : 한 프로그램 내에서 여러 스레드가 하나의 작업을 처리 : 단점 - 안정성(critical section으로 방지) 장점 - 시간,자원 공유
