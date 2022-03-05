@@ -24,8 +24,6 @@
 > 따라서, 요청이 들어올 때마다 DB와 비지니스 로직을 통해 결과물을 만들어 제공
 - WAS만으로 가능하지 않을까? 1) WAS가 정적페이지까지 처리하면 부하가 커짐. 2)동적 컨텐츠 처리가 지연돼 수행속도가 느려짐.
 
-<img width="80%" src="![WSvsWAS](https://user-images.githubusercontent.com/48271665/156865301-fcbcb0fc-fd9e-495d-9e33-b8d664e83687.PNG)"/>
-
-
+![WSvsWAS](https://user-images.githubusercontent.com/48271665/156865301-fcbcb0fc-fd9e-495d-9e33-b8d664e83687.PNG)
 
 참고 깃허브 : [링크](https://github.com/gyoogle/tech-interview-for-developer/tree/master/Web)
