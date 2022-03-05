@@ -21,5 +21,11 @@
 ### Web Server vs. Web Application Server 
 - 구분이유 : 웹서버는 정적페이지만 처리해 서버의 부담을 줄이기 위해
 - WAS는 왜 사용? 웹서버만으로는 사용자가 원하는 요청에 대한 결과값을 모두 미리 만들어놓고 서비스하기에는 리소스가 절대적으로 부족  
-  > 따라서, 요청이 들어올 때마다 DB와 비지니스 로직을 통해 결과물을 만들어 제공
+> 따라서, 요청이 들어올 때마다 DB와 비지니스 로직을 통해 결과물을 만들어 제공
 - WAS만으로 가능하지 않을까? 1) WAS가 정적페이지까지 처리하면 부하가 커짐. 2)동적 컨텐츠 처리가 지연돼 수행속도가 느려짐.
+
+<img width="80%" src="![WSvsWAS](https://user-images.githubusercontent.com/48271665/156865301-fcbcb0fc-fd9e-495d-9e33-b8d664e83687.PNG)"/>
+
+
+
+참고 깃허브 : [링크](https://github.com/gyoogle/tech-interview-for-developer/tree/master/Web)
