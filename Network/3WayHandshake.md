@@ -1,4 +1,9 @@
 ## 3 Way handshake와 4 Way handshake
+- 연결 : SYN - SYN+ACK + ACK
+![image](https://user-images.githubusercontent.com/48271665/161893979-69e797f4-2f61-4734-beca-cdedd4a96015.png)
+- 해제 : FIN - ACK - FIN - ACK
+![image](https://user-images.githubusercontent.com/48271665/161893991-256e7fcb-fc18-42bc-8618-fcca5efd533a.png)
+
 <br>
 
 * TCP 통신은 연결지향 / 데이터 전달보증 / 순서보장 의 특징을 가진다.
